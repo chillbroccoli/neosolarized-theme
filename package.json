@@ -1,0 +1,32 @@
+{
+  "name": "n3osolarized-theme",
+  "displayName": "N3osolarized Theme",
+  "description": "N3osolarized theme",
+  "version": "1.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "publisher": "chillbroccoli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chillbroccoli/neosolarized-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "solarized",
+    "neosolarized"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neosolarized Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neosolarized Theme-color-theme.json"
+      }
+    ]
+  }
+}
