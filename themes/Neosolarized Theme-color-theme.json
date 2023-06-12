@@ -603,7 +603,8 @@
 				"support.class.error",
 				"keyword.operator.list_type.prisma",
 				"variable.language.this",
-				"meta.brace.curly.graphql"
+				"meta.brace.curly.graphql",
+				"source.prisma.embedded.source"
 			],
 			"settings": {
 				"foreground": "#CB4B17",
